@@ -7,7 +7,7 @@
 - [High Performence Computing](https://github.com/mtbys-lab/hpc-intro)
 - [Molecular Dynamics](https://github.com/mtbys-lab/md-intro)
 - [Python](https://github.com/mtbys-lab/python-intro)
-- [Fortran](https://github.com/mtbys-lab/fortran-text)
+- [Fortran](https://github.com/mtbys-lab/fortran-text/releases/latest)
 
 ## Groups
 ### Dynamics
