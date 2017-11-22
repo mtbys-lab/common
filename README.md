@@ -1,5 +1,8 @@
 # Intro to [mtbys-lab](https://github.com/mtbys-lab)
 
+## General
+- [Lab Life](https://github.com/mtbys-lab/lablife)
+
 ## Basic skills
 - [Linux](https://github.com/mtbys-lab/linux-intro)
 - [Shell Script](https://github.com/mtbys-lab/shellscript-intro)
