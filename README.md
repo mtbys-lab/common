@@ -10,7 +10,7 @@
 - [Gnuplot](https://github.com/mtbys-lab/gnuplot-intro)
 - [High Performence Computing](https://github.com/mtbys-lab/hpc-intro)
 - [Molecular Dynamics](https://github.com/mtbys-lab/md-intro)
-- [Python](https://github.com/mtbys-lab/python-intro)
+- [Python](https://github.com/mtbys-lab/python-text/releases/latest)
 - [Fortran](https://github.com/mtbys-lab/fortran-text/releases/latest)
 
 ## Research Topics
