@@ -1,4 +1,4 @@
-# Intro to [mtbys-lab](https://github.com/mtbys-lab)
+# Common items in [mtbys-lab](https://github.com/mtbys-lab)
 
 ## General
 - [Lab Life](https://github.com/mtbys-lab/lablife)
