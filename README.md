@@ -2,6 +2,7 @@
 
 ## General
 - [Lab Life](https://github.com/mtbys-lab/lablife)
+- [Thesis](https://github.com/mtbys-lab/thesis)
 
 ## Basic skills
 - [Linux](https://github.com/mtbys-lab/linux-intro)
@@ -12,8 +13,9 @@
 - [Python](https://github.com/mtbys-lab/python-intro)
 - [Fortran](https://github.com/mtbys-lab/fortran-text/releases/latest)
 
-## Groups
+## Research Topics
+### Biological
+### Interface
 ### Dynamics
 ### Polymer
-### Interface
-### Biology
+
