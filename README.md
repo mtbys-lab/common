@@ -7,7 +7,7 @@
 ## Basic skills
 - [Linux](https://github.com/mtbys-lab/linux-intro)
 - [Shell Script](https://github.com/mtbys-lab/shellscript-intro)
-- [Gnuplot](https://github.com/mtbys-lab/gnuplot-intro)
+- [Gnuplot](https://github.com/mtbys-lab/gnuplot-text_and_samples)
 - [High Performence Computing](https://github.com/mtbys-lab/hpc-intro)
 - [Molecular Dynamics](https://github.com/mtbys-lab/md-intro)
 - [Python](https://github.com/mtbys-lab/python-text/releases/latest)
