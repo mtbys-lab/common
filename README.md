@@ -19,5 +19,5 @@
 ### Dynamics
 ### Polymer
 ### Method
-
-
+### [ERmod](https://sourceforge.net/projects/ermod/)
+### [Decond](https://github.com/decond/decond)
