@@ -5,7 +5,7 @@
 - [Thesis](https://github.com/mtbys-lab/thesis)
 
 ## Basic skills
-- [Linux](https://github.com/mtbys-lab/linux-intro)
+- [Linux](https://github.com/mtbys-lab/linux-intro/releases)
 - [Shell Script](https://github.com/mtbys-lab/shellscript-intro/releases/latest)
 - [Gnuplot](https://github.com/mtbys-lab/gnuplot-text_and_samples/releases/latest)
 - [High Performence Computing](https://github.com/mtbys-lab/hpc-intro)
