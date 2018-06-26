@@ -13,7 +13,7 @@
 - [Molecular Dynamics](https://github.com/mtbys-lab/md-intro)
 - [Python](https://github.com/mtbys-lab/python-text/releases/latest)
 - [Fortran](https://github.com/mtbys-lab/fortran-text/releases/latest)
-- [Software](https://github.com/mtbys-lab/Software/)
+- [Packmol](https://github.com/mtbys-lab/Packmol/)
 
 ## Research Topics
 ### Biological
