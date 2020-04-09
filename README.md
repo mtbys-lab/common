@@ -14,3 +14,4 @@
 - [Python](https://github.com/mtbys-lab/python-text/releases/latest)
 - [Fortran](https://github.com/mtbys-lab/fortran-text/releases/latest)
 - [Packmol](https://github.com/mtbys-lab/Packmol/)
+- [Zoom](https://github.com/mtbys-lab/zoom/blob/master/README.md)
