@@ -3,6 +3,7 @@
 ## General
 - [Lab Life](https://github.com/mtbys-lab/lablife)
 - [Thesis](https://github.com/mtbys-lab/thesis)
+- [Books](https://github.com/mtbys-lab/Books/blob/master/蔵書リスト.xlsx)
 
 ## Basic skills
 - [Linux](https://github.com/mtbys-lab/linux-intro/releases)
