@@ -17,3 +17,4 @@
 - [Fortran](https://github.com/mtbys-lab/fortran-text/releases/latest)
 - [Packmol](https://github.com/mtbys-lab/Packmol/)
 - [Zoom](https://github.com/mtbys-lab/zoom/blob/master/README.md)
+- [笠原講義](https://github.com/mtbys-lab/kasahara_lecture)
