@@ -5,6 +5,7 @@
 - [Thesis](https://github.com/mtbys-lab/thesis)
 - [Books](https://github.com/mtbys-lab/Books/blob/master/蔵書リスト.xlsx)
 - [学会スケジュール管理](https://github.com/mtbys-lab/Conferences)
+- [出版済み原稿](https://github.com/mtbys-lab/Published_Manuscripts)
 
 ## Basic skills
 - [Linux](https://github.com/mtbys-lab/linux-intro/releases)
