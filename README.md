@@ -21,5 +21,5 @@
 - [笠原_応用数学講義](https://github.com/mtbys-lab/kasahara_lecture)
 
 ## 対処まとめ
-- [Evnet](https://github.com/mtbys-lab/Event)
+- [Event](https://github.com/mtbys-lab/Event)
 
